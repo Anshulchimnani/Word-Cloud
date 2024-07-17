@@ -1,2 +1,4 @@
 # Word-Cloud
-Identify the top 5 MOST USED WORDS for each wine described. Represent your findings in Word Cloud Illustration 
+Using the wine.csv file available on the Moodle page and implementing a text mining technique, identify the top 5 MOST USED WORDS for each wine described. Represent your findings in Word Cloud Illustration for each wine likethe following example. The size of the words gets bigger as they becomemore frequently used.
+
+Solution: To tackle this question we have taken the apparoach of dividing the dataset on the basis of varieties of wines, i.e there are 41 different varieties of wine in the dataset, so we have created a dataset for each variety of wine with it's subsequent datapoints, So 41 datasets were uploaded to google colab to complete this task We have appended a screengrab of the 41 datasets uploaded to Google Colab We have also attached all the 41 files in the zipped folder on moodle for reference
